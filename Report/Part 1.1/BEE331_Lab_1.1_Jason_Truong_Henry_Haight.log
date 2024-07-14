@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.24)  14 JUL 2024 08:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.24)  14 JUL 2024 08:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./BEE331_Lab_1_Jason_Truong_Henry_Haight.tex
-(BEE331_Lab_1_Jason_Truong_Henry_Haight.tex
+**./BEE331_Lab_1.1_Jason_Truong_Henry_Haight.tex
+(BEE331_Lab_1.1_Jason_Truong_Henry_Haight.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\dinhj\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
@@ -493,8 +493,8 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 LaTeX Warning: Unused global option(s):
     [9pt].
 
-(BEE331_Lab_1_Jason_Truong_Henry_Haight.aux)
-\openout1 = `BEE331_Lab_1_Jason_Truong_Henry_Haight.aux'.
+(BEE331_Lab_1.1_Jason_Truong_Henry_Haight.aux)
+\openout1 = `BEE331_Lab_1.1_Jason_Truong_Henry_Haight.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
 LaTeX Font Info:    ... okay on input line 37.
@@ -547,10 +547,10 @@ Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 37.
- (BEE331_Lab_1_Jason_Truong_Henry_Haight.out)
-(BEE331_Lab_1_Jason_Truong_Henry_Haight.out)
+ (BEE331_Lab_1.1_Jason_Truong_Henry_Haight.out)
+(BEE331_Lab_1.1_Jason_Truong_Henry_Haight.out)
 \@outlinefile=\write3
-\openout3 = `BEE331_Lab_1_Jason_Truong_Henry_Haight.out'.
+\openout3 = `BEE331_Lab_1.1_Jason_Truong_Henry_Haight.out'.
 
 
 *geometry* driver: auto-detecting
@@ -595,30 +595,30 @@ Package pdftex.def Info: W-Logo_Purple_RGB.png  used on input line 41.
 [1
 
 {C:/Users/dinhj/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./W-Logo_Pur
-ple_RGB.png>] (BEE331_Lab_1_Jason_Truong_Henry_Haight.aux)
+ple_RGB.png>] (BEE331_Lab_1.1_Jason_Truong_Henry_Haight.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-Package rerunfilecheck Info: File `BEE331_Lab_1_Jason_Truong_Henry_Haight.out' 
-has not changed.
+Package rerunfilecheck Info: File `BEE331_Lab_1.1_Jason_Truong_Henry_Haight.out
+' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  14504 strings out of 474486
- 234898 string characters out of 5743755
+ 234938 string characters out of 5743755
  1927542 words of memory out of 5000000
  36610 multiletter control sequences out of 15000+600000
  561432 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,5n,107p,296b,493s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,5n,107p,298b,493s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmcsc10.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmr10.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmr12.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts
 /type1/public/amsfonts/cm/cmti12.pfb>
-Output written on BEE331_Lab_1_Jason_Truong_Henry_Haight.pdf (1 page, 55985 byt
-es).
+Output written on BEE331_Lab_1.1_Jason_Truong_Henry_Haight.pdf (1 page, 56070 b
+ytes).
 PDF statistics:
  34 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
