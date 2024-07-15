@@ -1,0 +1,22 @@
+Circuit: * C:\Users\dinhj\Desktop\Academia Repository\BEE Repository\BEE 331 Microelectronics and Circuits\Labs\BEE331_Lab_1\Spice\1_3a.asc
+
+.OP point found by inspection.
+
+Date: Mon Jul 15 06:32:36 2024
+Total elapsed time: 0.151 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3540
+traniter = 3540
+tranpoints = 1554
+accept = 1370
+rejected = 184
+matrix size = 5
+fillins = 0
+solver = Normal
+Avg thread counts: 2.7/4.8/4.8/2.7
+Matrix Compiler1:       9 opcodes  0.2/[0.1]/0.2
+Matrix Compiler2: 321 bytes object code size  0.2/0.2/[0.1]
+

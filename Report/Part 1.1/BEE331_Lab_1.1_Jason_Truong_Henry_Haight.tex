@@ -45,7 +45,7 @@
 		\vspace{1.5cm}
 		{\huge\bfseries \par}
 		\vspace{2cm}
-		{\Large\itshape 2301991\hspace{55pt}2130474\par}
+		{\Large\itshape 2301991\hspace{55pt}1900585\par}
 		{\Large\itshape Jason Truong\hspace{31pt}Henry Haight\par}
 		\vfill
 		supervised by\par
@@ -66,19 +66,31 @@
 	\nsection{Circuit Design Outline}
 	\endgroup
 	With a resistor of an arbitrary impedance greater than $50\Omega$ ($R\geq100\Omega$), and the natural impedance of the Function Generator in series ($R_{TOT}=R_{FG}+R\geq150\Omega$), the (1N4148 silicon) diode is set in series to forward-bias from the function generator. Set the function generator @ f=1kHz and $V_P=5V$.
-	\begin{figure}[hpb!]
+	\begin{figure}[hp!]
 		\centering
-		\caption{\centering RLC Circuit}
-		\subfloat[\centering LTSpice + Rudimentary Schematic RLC Circuit]{\includegraphics[width=10cm]{image}}\hfil
-		\subfloat[\centering RLC Circuit]{\includegraphics[width=10cm]{20240714_094126}}
+		\caption{\centering Series R + Diode}
+		\subfloat[\centering LTSpice + Rudimentary Schematic Seris RD ($499\Omega$) Circuit]{\includegraphics[width=19cm]{499 resistor circuit sim}}
 	\end{figure}
+		\begin{figure}[hp!]
+		\ContinuedFloat
+		\centering
+		\subfloat[\centering Series RD Circuit $499\Omega$]{\includegraphics[width=9cm]{499 resistor circuit irl}}\hfil
+		\subfloat[\centering Series RD Circuit $100\Omega$]{\includegraphics[width=9cm]{100 resistor circuit irl}}
+	\end{figure}
+	\newpage
 	\nsection{Descriptions of Measurements \& Calculations}
-	Anylsing the data below, the measured and LTSpice sim were similar. Except the LTSpice sim had a measured rise-time much lower than the LTSpice calculations.
+	\nsubsection{Analysis}
+	\begin{itemize}
+		\item \textbf{i. Describe how you measured $I_D$ and $V_D$?}
+		\subitem At the node where R; ($R>100\Omega$) and the Diode; ($D$) meet, we denote this junction as $V_{out}$. We attach our Multimetre's positive lead (Red) to $V_{out}$, and attached our ground lead to the opposing node of the Diode; ($D$) - which should be grounded.
+		\item \textbf{ii. In this experiment how would you determine the value of $I_{D,max}$}
+		\subitem
+	\end{itemize}
 	\begin{figure}[hp!] %140, 
 		\centering
-		\caption{RLC Circuit}
-		\subfloat[RLC Circuit: Math]{\includegraphics[width=10cm]{tek0001}}\hfil
-		\subfloat[Square RLC Circuit]{\includegraphics[width=10cm]{20240714_094141}}\hfil
+		\caption{RD Circuit}
+		\subfloat[RD Circuit Measurement]{\includegraphics[width=9cm]{tek0001}}
+		\subfloat[Sample Measurement ]{\includegraphics[width=9cm]{Screenshot 2024-07-15 074336}}
 	\end{figure}
 	\nsection{Summary \& Conclusions}
 	Revealed in Figure 2(a-b), the primary components; the Inductor and Capacitor, overcompensate and overdamp the circuit, and grew to be greater than the voltage originally. The calculation and the measurements in actuality were very close in similar measurements.
@@ -87,14 +99,15 @@
 	\begin{figure}[hp!]
 		\centering
 		\caption{Jason Truong Addendum}
-		\subfloat[\centering Lab Design   Calculations]{\includegraphics[width=17cm]{20240714_094141}}
+		\subfloat[\centering Lab Design   Calculations]{\includegraphics[width=17cm]{Theoretical Calculation of Ideal Diode}}
 	\end{figure}
 	\newpage
 	\nsection{Bibliography}
 	\textbf{Cited:}\\
 	\begin{itemize}
 		\item Lab 1 Manual
-		\item Class textbook: "Electric Circuits 11e, Nillson \& Riedel"
+		\item Sedra, Adel, and Kenneth Smith. Microelectronic Circuits. S.L., Oxford Univ Press Us, 2019.
+		\item “How Do You Calculate, a Silicon Junction Diode with N = 1 Has v = 0.7 v al I = 1 MA. What Is the Voltage Drop at I=0.1 MA and I=10 MA.?” Quora, 2024, appliedmathematics.quora.com/How-to-calculate-A-silicon-junction-diode-with-n-1-has-v-0-7-V-al-I-1-mA-What-is-the-voltage-drop-at-I-0-1-mA-an?top\_ans=223007030. Accessed 15 July 2024.
 	\end{itemize}
 	\begin{figure}[!h]
 		\subfloat[Look at her, she's perfect.]{\includegraphics[width=\linewidth]{GodILoveFurina}}
