@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.24)  14 JUL 2024 08:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.24)  14 JUL 2024 19:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -587,7 +587,7 @@ Package hyperref Info: Link coloring OFF on input line 37.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<W-Logo_Purple_RGB.png, id=3, 108.405pt x 72.9927pt>
+<W-Logo_Purple_RGB.png, id=30, 108.405pt x 72.9927pt>
 File: W-Logo_Purple_RGB.png Graphic file (type png)
 <use W-Logo_Purple_RGB.png>
 Package pdftex.def Info: W-Logo_Purple_RGB.png  used on input line 41.
@@ -595,32 +595,103 @@ Package pdftex.def Info: W-Logo_Purple_RGB.png  used on input line 41.
 [1
 
 {C:/Users/dinhj/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./W-Logo_Pur
-ple_RGB.png>] (BEE331_Lab_1.1_Jason_Truong_Henry_Haight.aux)
+ple_RGB.png>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 61.
+
+<Series Forward-Bias Diode Circuit/image.png, id=42, 395.22656pt x 219.82124pt>
+
+File: Series Forward-Bias Diode Circuit/image.png Graphic file (type png)
+<use Series Forward-Bias Diode Circuit/image.png>
+Package pdftex.def Info: Series Forward-Bias Diode Circuit/image.png  used on i
+nput line 72.
+(pdftex.def)             Requested size: 284.52756pt x 158.25104pt.
+<Series Forward-Bias Diode Circuit/20240714_094126.jpg, id=43, 3035.34pt x 4047
+.12pt>
+File: Series Forward-Bias Diode Circuit/20240714_094126.jpg Graphic file (type 
+jpg)
+<use Series Forward-Bias Diode Circuit/20240714_094126.jpg>
+Package pdftex.def Info: Series Forward-Bias Diode Circuit/20240714_094126.jpg 
+ used on input line 73.
+(pdftex.def)             Requested size: 284.52756pt x 379.35481pt.
+<Series Forward-Bias Diode Circuit/tek0001.png, id=44, 803.0pt x 481.8pt>
+File: Series Forward-Bias Diode Circuit/tek0001.png Graphic file (type png)
+<use Series Forward-Bias Diode Circuit/tek0001.png>
+Package pdftex.def Info: Series Forward-Bias Diode Circuit/tek0001.png  used on
+ input line 80.
+(pdftex.def)             Requested size: 284.52756pt x 170.7204pt.
+<Series Forward-Bias Diode Circuit/20240714_094141.jpg, id=45, 3035.34pt x 4047
+.12pt>
+File: Series Forward-Bias Diode Circuit/20240714_094141.jpg Graphic file (type 
+jpg)
+<use Series Forward-Bias Diode Circuit/20240714_094141.jpg>
+Package pdftex.def Info: Series Forward-Bias Diode Circuit/20240714_094141.jpg 
+ used on input line 81.
+(pdftex.def)             Requested size: 284.52756pt x 379.35481pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.85 	\newpage
+               [1
+
+ <./Series Forward-Bias Diode Circuit/image.png> <./Series Forward-Bias Diode C
+ircuit/20240714_094126.jpg>] [2 <./Series Forward-Bias Diode Circuit/tek0001.pn
+g (PNG copy)> <./Series Forward-Bias Diode Circuit/20240714_094141.jpg>]
+File: Series Forward-Bias Diode Circuit/20240714_094141.jpg Graphic file (type 
+jpg)
+<use Series Forward-Bias Diode Circuit/20240714_094141.jpg>
+Package pdftex.def Info: Series Forward-Bias Diode Circuit/20240714_094141.jpg 
+ used on input line 90.
+(pdftex.def)             Requested size: 483.69684pt x 644.89702pt.
+ [3
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+
+ []
+
+<GodILoveFurina.png, id=69, 857.2025pt x 732.7375pt>
+File: GodILoveFurina.png Graphic file (type png)
+<use GodILoveFurina.png>
+Package pdftex.def Info: GodILoveFurina.png  used on input line 100.
+(pdftex.def)             Requested size: 569.05515pt x 486.42578pt.
+[4 <./GodILoveFurina.png>] (BEE331_Lab_1.1_Jason_Truong_Henry_Haight.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `BEE331_Lab_1.1_Jason_Truong_Henry_Haight.out
 ' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: C9C6A0E2002877D321A6FFB06984F4D1;1212.
  ) 
 Here is how much of TeX's memory you used:
- 14504 strings out of 474486
- 234938 string characters out of 5743755
- 1927542 words of memory out of 5000000
- 36610 multiletter control sequences out of 15000+600000
- 561432 words of font info for 47 fonts, out of 8000000 for 9000
+ 14618 strings out of 474486
+ 237990 string characters out of 5743755
+ 1931542 words of memory out of 5000000
+ 36704 multiletter control sequences out of 15000+600000
+ 564048 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,5n,107p,298b,493s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmcsc10.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmr10.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmr12.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on BEE331_Lab_1.1_Jason_Truong_Henry_Haight.pdf (1 page, 56070 b
-ytes).
+ 94i,12n,107p,390b,493s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\dinhj\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1000.pk><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/dinhj/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/dinhj/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/dinhj/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/
+dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:
+/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmti12.pfb>
+Output written on BEE331_Lab_1.1_Jason_Truong_Henry_Haight.pdf (5 pages, 217889
+7 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
- 2 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 129 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
+ 87 words of extra memory for PDF output out of 10000 (max. 10000000)
 
