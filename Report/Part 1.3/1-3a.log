@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.14)  14 JUL 2024 19:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.14)  14 JUL 2024 19:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -613,7 +613,7 @@ Here is how much of TeX's memory you used:
 <C:/Users/henry/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmcsc10.pfb><C:/Users/henry/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmr10.pfb>
-Output written on 1-3a.pdf (1 page, 30103 bytes).
+Output written on 1-3a.pdf (1 page, 30475 bytes).
 PDF statistics:
  21 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
