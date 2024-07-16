@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.24)  15 JUL 2024 21:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.24)  15 JUL 2024 23:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -633,72 +633,74 @@ Package pdftex.def Info: Series Forward-Bias Diode Circuit/100 resistor circuit
  irl.jpg  used on input line 79.
 (pdftex.def)             Requested size: 256.0748pt x 185.59778pt.
 
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 82.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.81 	\newpage
+               [1
 
-<Series Forward-Bias Diode Circuit/tek0001.png, id=50, 803.0pt x 481.8pt>
+ <./Series Forward-Bias Diode Circuit/499 resistor circuit sim.png> <./Series F
+orward-Bias Diode Circuit/100 resistor circuit sim.png> <./Series Forward-Bias 
+Diode Circuit/499 resistor circuit irl.jpg> <./Series Forward-Bias Diode Circui
+t/100 resistor circuit irl.jpg>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 83.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.97 		\subfloat
+                [RD Circuit Measurement]{\includegraphics[width=9cm]{tek0001}}
+<Series Forward-Bias Diode Circuit/tek0001.png, id=65, 803.0pt x 481.8pt>
 File: Series Forward-Bias Diode Circuit/tek0001.png Graphic file (type png)
 <use Series Forward-Bias Diode Circuit/tek0001.png>
 Package pdftex.def Info: Series Forward-Bias Diode Circuit/tek0001.png  used on
- input line 96.
+ input line 97.
 (pdftex.def)             Requested size: 256.0748pt x 153.64983pt.
-<Series Forward-Bias Diode Circuit/Screenshot 2024-07-15 074336.png, id=51, 109
+
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.98 		\subfloat
+                [Sample Measurement ]{\includegraphics[width=9cm]{Screenshot...
+<Series Forward-Bias Diode Circuit/Screenshot 2024-07-15 074336.png, id=66, 109
 2.33093pt x 586.44093pt>
 File: Series Forward-Bias Diode Circuit/Screenshot 2024-07-15 074336.png Graphi
 c file (type png)
 <use Series Forward-Bias Diode Circuit/Screenshot 2024-07-15 074336.png>
 Package pdftex.def Info: Series Forward-Bias Diode Circuit/Screenshot 2024-07-1
-5 074336.png  used on input line 97.
+5 074336.png  used on input line 98.
 (pdftex.def)             Requested size: 256.0748pt x 137.47359pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.101 	\newpage
-                [1
-
- <./Series Forward-Bias Diode Circuit/499 resistor circuit sim.png> <./Series F
-orward-Bias Diode Circuit/100 resistor circuit sim.png> <./Series Forward-Bias 
-Diode Circuit/499 resistor circuit irl.jpg> <./Series Forward-Bias Diode Circui
-t/100 resistor circuit irl.jpg>] [2] [3
-pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.1
-}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.102 	\nchapter{Addendum Pages}
-                                
-pdfTeX warning (ext4): destination with the same identifier (name{subfigure.1.2
-}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.102 	\nchapter{Addendum Pages}
-                                 <./Series Forward-Bias Diode Circuit/tek0001.p
-ng (PNG copy)> <./Series Forward-Bias Diode Circuit/Screenshot 2024-07-15 07433
-6.png>]
+[2 <./Series Forward-Bias Diode Circuit/tek0001.png (PNG copy)> <./Series Forwa
+rd-Bias Diode Circuit/Screenshot 2024-07-15 074336.png>]
 <Series Forward-Bias Diode Circuit/Theoretical Calculation of Ideal Diode.jpg, 
-id=79, 518.93875pt x 422.57875pt>
+id=75, 518.93875pt x 422.57875pt>
 File: Series Forward-Bias Diode Circuit/Theoretical Calculation of Ideal Diode.
 jpg Graphic file (type jpg)
 <use Series Forward-Bias Diode Circuit/Theoretical Calculation of Ideal Diode.j
 pg>
 Package pdftex.def Info: Series Forward-Bias Diode Circuit/Theoretical Calculat
-ion of Ideal Diode.jpg  used on input line 106.
+ion of Ideal Diode.jpg  used on input line 107.
 (pdftex.def)             Requested size: 483.69684pt x 393.90334pt.
- [4
+ [3
 
  <./Series Forward-Bias Diode Circuit/Theoretical Calculation of Ideal Diode.jp
 g>]
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
 
  []
 
-<GodILoveFurina.png, id=85, 857.2025pt x 732.7375pt>
+<GodILoveFurina.png, id=81, 857.2025pt x 732.7375pt>
 File: GodILoveFurina.png Graphic file (type png)
 <use GodILoveFurina.png>
-Package pdftex.def Info: GodILoveFurina.png  used on input line 117.
+Package pdftex.def Info: GodILoveFurina.png  used on input line 118.
 (pdftex.def)             Requested size: 569.05515pt x 486.42578pt.
-[5 <./GodILoveFurina.png>] (BEE331_Lab_1.1_Jason_Truong_Henry_Haight.aux)
+[4 <./GodILoveFurina.png>] (BEE331_Lab_1.1_Jason_Truong_Henry_Haight.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -708,9 +710,9 @@ Package rerunfilecheck Info: File `BEE331_Lab_1.1_Jason_Truong_Henry_Haight.out
 (rerunfilecheck)             Checksum: 89B1638593D8B7F29672A30F55816006;1309.
  ) 
 Here is how much of TeX's memory you used:
- 14677 strings out of 474486
- 240999 string characters out of 5743755
- 1937542 words of memory out of 5000000
+ 14676 strings out of 474486
+ 240993 string characters out of 5743755
+ 1932542 words of memory out of 5000000
  36754 multiletter control sequences out of 15000+600000
  566022 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -729,10 +731,10 @@ dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C
 .pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb><C:/Users/dinhj/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmti12.pfb>
-Output written on BEE331_Lab_1.1_Jason_Truong_Henry_Haight.pdf (6 pages, 263362
-7 bytes).
+Output written on BEE331_Lab_1.1_Jason_Truong_Henry_Haight.pdf (5 pages, 263318
+1 bytes).
 PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
- 21 named destinations out of 1000 (max. 500000)
+ 145 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
  110 words of extra memory for PDF output out of 10000 (max. 10000000)
 
